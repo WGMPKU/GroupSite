@@ -1,7 +1,18 @@
 /* Banner setup */
+
+
+#banner .copy{
+  max-width: 1000px;
+}
+
+#banner {
+  padding: 20px 0;
+}
+
 #banner h1 {
     font-size: 45px;
     margin-bottom: 10px;
+    text-transform: none;
 }
 
 /* over all image setup */
@@ -26,24 +37,27 @@
     clear: both;
 }
 
-.begin-people ~ h3,
+.begin-people ~ h3{
+    width: 100%;
+    clear: both;
+}
 .begin-people ~ ul {
-    width: 70%;
-    float: left;
+    width: 85%;
+    float: right;
     box-sizing: border-box;
-    padding-right: 1rem;
+    padding-right: 5rem;
     clear: both;
 }
 
 .begin-people ~ p{
-    width: 30%;
-    float: right;
-    clear: right;
+    width: 15%;
+    float: left;
+    clear: left;
     margin-bottom: 1rem;
 }
 
 .begin-people ~ p img{
-    width: 75%;
+    width: 80%;
 }
 
 .end-people ~ p img{
