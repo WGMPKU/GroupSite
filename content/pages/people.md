@@ -14,7 +14,7 @@ lang: en
 * Phone: 86(10)6276.5512
 * E-mail: yfxiao[AT]pku[DOT]edu[DOT]cn
 
-![Image loading](/images/yfxiao-new.jpg){.avator}
+![Image loading]({filename}/images/yfxiao-new.jpg){.avator}
 
 ## Postdoctoral and Graduate Students
 ### Yanyan Zhi
@@ -23,14 +23,14 @@ lang: en
 * Ph.D., University of Alberta (Canada), 2014
 * E-mail: yzhi[AT]pku[DOT]edu[DOT]cn
 
-![Image loading](/images/yanyan.JPG){.avator}
+![Image loading]({filename}/images/yanyan.JPG){.avator}
 ### Xiao-Chong Yu,
 
 * Ph.D. candidate 2012
 * B. S., Peking University, 2012
 * E-mail: yuxc[AT]pku[DOT]edu[DOT]cn
 
-![Image loading](/images/xiaochong.jpg){.avator}
+![Image loading]({filename}/images/xiaochong.jpg){.avator}
 
 ### Li Wang,
 
@@ -38,7 +38,7 @@ lang: en
 * B. S., Peking University, 2013
 * E-mail: windwang[AT]pku[DOT]edu[DOT]cn
 
-![Image loading](/images/wangli.jpg){.avator}
+![Image loading]({filename}/images/wangli.jpg){.avator}
 
 ### Shu-Xin Zhang,
 
@@ -47,7 +47,7 @@ lang: en
 * E-mail: zsx_op[AT]pku[DOT]edu[DOT]cn
 
 
-![Image loading](/images/shuxin.jpg){.avator}
+![Image loading]({filename}/images/shuxin.jpg){.avator}
 
 ### Jian-Ning Xu,
 
@@ -56,7 +56,7 @@ lang: en
 * E-mail: jnxu[AT]pku[DOT]edu[DOT]cn
 
 
-![Image loading](/images/jianning.jpg){.avator}
+![Image loading]({filename}/images/jianning.jpg){.avator}
 
 ### Shui-Jing Tang,
 
@@ -65,7 +65,7 @@ lang: en
 * E-mail:
 
 
-![Image loading](/images/shuijing.jpg){.avator}
+![Image loading]({filename}/images/shuijing.jpg){.avator}
 
 ### Qi-Tao Cao,
 
@@ -74,7 +74,7 @@ lang: en
 * B. S., University of Science and Technology of China, 2015
 * E-mail:
 
-![Image loading](/images/qitao.jpg){.avator}
+![Image loading]({filename}/images/qitao.jpg){.avator}
 
 ## Undergraduates
 
@@ -84,7 +84,7 @@ lang: en
 * School of Physics
 * E-mail:	liuruishan[AT]pku[DOT]edu[DOT]cn
 
-![Image loading](/images/ruishan.jpg){.avator}
+![Image loading]({filename}/images/ruishan.jpg){.avator}
 
 ### Ao-Xue Han,
 
@@ -92,7 +92,7 @@ lang: en
 * School of Physics
 * E-mail:	han_ao_xue[AT]126[DOT]com
 
-![Image loading](/images/girl.jpg){.avator}
+![Image loading]({filename}/images/girl.jpg){.avator}
 
 ### Kang-Jing Huang,
 
@@ -100,7 +100,7 @@ lang: en
 * School of Physics
 * E-mail:	huangkangjing[AT]gmail[DOT]com
 
-![Image loading](/images/HKJ.JPG){.avator}
+![Image loading]({filename}/images/HKJ.JPG){.avator}
 
 ### Xi Chen,
 
@@ -108,7 +108,7 @@ lang: en
 * School of Physics
 * E-mail:	1200011353[AT]pku[DOT]edu[DOT]cn
 
-![Image loading](/images/gentleman.jpg){.avator}
+![Image loading]({filename}/images/gentleman.jpg){.avator}
 
 ### He-Ming Wang,
 
@@ -116,14 +116,14 @@ lang: en
 * School of Physics
 * E-mail: wangheming[AT]pku[DOT]edu[DOT]cn
 
-![Image loading](/images/gentleman.jpg){.avator}
+![Image loading]({filename}/images/gentleman.jpg){.avator}
 
 ### He-Ming Wang,
 
 * Undergraduate 2012
 * School of Physics, Tsing Hua University
 
-![Image loading](/images/gentleman.jpg){.avator}
+![Image loading]({filename}/images/gentleman.jpg){.avator}
 
 ### Ze-Yang Li,
 
@@ -131,7 +131,7 @@ lang: en
 * School of Physics
 * E-mail: laser.li[AT]pku[DOT]edu[DOT]cn
 
-![Image loading](/images/zeyang.png){.avator}
+![Image loading]({filename}/images/zeyang.png){.avator}
 
 ### Pai Peng,
 
@@ -139,28 +139,28 @@ lang: en
 * School of Physics
 * E-mail: pengpai[AT]pku[DOT]edu[DOT]cn
 
-![Image loading](/images/pengpai.jpg){.avator}
+![Image loading]({filename}/images/pengpai.jpg){.avator}
 
 ### Si-Zhen Wang,
 
 * Undergraduate 2013
 * School of Physics
 
-![Image loading](/images/gentleman.jpg){.avator}
+![Image loading]({filename}/images/gentleman.jpg){.avator}
 
 ### Fei Gao,
 
 * Undergraduate 2013
 * School of Physics
 
-![Image loading](/images/gentleman.jpg){.avator}
+![Image loading]({filename}/images/gentleman.jpg){.avator}
 
 ### Yu-Xin Wang,
 
 * Undergraduate 2013
 * School of Physics
 
-![Image loading](/images/girl.jpg){.avator}
+![Image loading]({filename}/images/girl.jpg){.avator}
 
 ### Xue-Yue Zhang,
 
@@ -168,21 +168,21 @@ lang: en
 * School of Information, TsingHua University
 * E-mail: zhangxueyue13[AT]mails[DOT]tsinghua[DOT]edu[DOT]cn
 
-![Image loading](/images/xueyue.png){.avator}
+![Image loading]({filename}/images/xueyue.png){.avator}
 
 ### Yu-Zhong Gu,
 
 * Undergraduate 2014
 * School of Physics
 
-![Image loading](/images/gentleman.jpg){.avator}
+![Image loading]({filename}/images/gentleman.jpg){.avator}
 
 ### Yu-Han Wang,
 
 * Undergraduate 2014
 * School of Physics
 
-![Image loading](/images/gentleman.jpg){.avator}
+![Image loading]({filename}/images/gentleman.jpg){.avator}
 
 <div class="end-people"></div>
 
