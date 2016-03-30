@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'Microcavity Photonics Group of Peking University'
-SITENAME = 'Microcavity Photonics Group'
+AUTHOR = 'Microcavity Pħotonics Group of Peking University'
+SITENAME = 'Microcavity Pħotonics Group'
 SITEURL = ''
 
 BOOTSTRAP_THEME = 'cosmo'
@@ -16,7 +16,7 @@ DEFAULT_LANG = 'en'
 
 THEME = 'pelican-bootstrap3'
 
-STATIC_PATHS = ['images', 'teaching', 'style.css']
+STATIC_PATHS = ['images', 'teaching', 'style.css', 'favicon.ico']
 
 CUSTOM_CSS = 'style.css'
 
@@ -44,13 +44,20 @@ LINKS = (('Peking University', 'http://www.pku.edu.cn/'),
          ('Nature Publishing Group', 'http://www.nature.com/'))
 SOCIALS = ()
 
+LANG_DISPLAY = {
+    'en': 'English',
+    'zh': '中文'
+}
+
+PLUGIN_PATHS = ['/Users/laser/pelicanplugins/pelican-plugins/']
+PLUGINS = ['render_math', 'pelican-toc']
+
 TOC = {
     'TOC_HEADERS' : '^h[2-3]',
     'TOC_RUN'     : 'true'
 }
 
-PLUGIN_PATHS = ['/home/hkj/Projects/pelican-plugins']
-PLUGINS = ['render_math', 'pelican-toc']
+
 
 DEFAULT_PAGINATION = False
 
