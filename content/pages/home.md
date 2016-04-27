@@ -9,4 +9,4 @@ Welcome to Yun-Feng Xiao research group at Peking University. This group was est
 
 The optical microresonators support whispering gallery modes (WGMs), offer long photon storage times described by ultrahigh Q factors and open a myriad of lab-on-chip applications ranging from fundamental physics to various photonics applications, such as cavity quantum electromagetic dynamics, cavity quantum optomechancis, nonlinear optics, low-threshold microlasing, bio/chemical sensing, and microcomb.
 
-![Oops, wrong]({filename}/images/group.jpg){.image}
+![Image loading]({filename}/images/Gathering.jpg){.image}

@@ -17,13 +17,13 @@ lang: en
 ![Image loading]({filename}/images/yfxiao-new.jpg){.avator}
 
 ## Postdoctoral and Graduate Students
-### Yanyan Zhi
+### Yanyan Zhi,
 
 * Postdoctoral scholar
 * Ph.D., University of Alberta (Canada), 2014
 * E-mail: yzhi[AT]pku[DOT]edu[DOT]cn
 
-![Image loading]({filename}/images/yanyan.JPG){.avator}
+![Image loading]({filename}/images/yanyan2.jpg){.avator}
 ### Xiao-Chong Yu,
 
 * Ph.D. candidate 2012
@@ -38,7 +38,7 @@ lang: en
 * B. S., Peking University, 2013
 * E-mail: windwang[AT]pku[DOT]edu[DOT]cn
 
-![Image loading]({filename}/images/wangli.jpg){.avator}
+![Image loading]({filename}/images/wangli2.jpg){.avator}
 
 ### Shu-Xin Zhang,
 
@@ -62,7 +62,7 @@ lang: en
 
 * Ph. D. candidate 2015
 * B. S., Wuhan University of Technology, 2015
-* E-mail:
+* E-mail: crystaltang[AT]pku[DOT]edu[DOT]cn
 
 
 ![Image loading]({filename}/images/shuijing.jpg){.avator}
@@ -72,7 +72,7 @@ lang: en
 
 * Ph.D. candidate 2015
 * B. S., University of Science and Technology of China, 2015
-* E-mail:
+* E-mail: caoqt[AT]pku[DOT]edu[DOT]cn
 
 ![Image loading]({filename}/images/qitao.jpg){.avator}
 
@@ -139,12 +139,13 @@ lang: en
 * School of Physics
 * E-mail: pengpai[AT]pku[DOT]edu[DOT]cn
 
-![Image loading]({filename}/images/pengpai.jpg){.avator}
+![Image loading]({filename}/images/pengpai1.png){.avator}
 
 ### Si-Zhen Wang,
 
 * Undergraduate 2013
 * School of Physics
+* E-mail: wangsizhen199564[AT]126[DOT]com
 
 ![Image loading]({filename}/images/gentleman.jpg){.avator}
 
