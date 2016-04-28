@@ -5,7 +5,16 @@ title: Publication
 <div class="begin-publication"></div>
 
 ## Featured Publications
+#### [Single Nanoparticle Detection and Sizing Using a Nanofiber Pair in an Aqueous Environment](http://onlinelibrary.wiley.com/doi/10.1002/adma.201402085/abstract)
 
+Shuijing Tang, Bei-Bei Li (co-first author) et al., Advanced Materials 26(44), 7462-7467 (2014). *Front cover paper, highlighted*{.red} *in [Materials Views](http://www.materialsviews.com/nanofiber-sensor-can-detect-size-single-nanoparticle/), [AZO nano](http://www.azonano.com/news.aspx?newsID=31610).*
+
+![Image loading]({filename}/images/nanofiber-sensor.png){.image}
+{.images}
+
+Optical fiber sensors have been extensively employed in high-sensitivity biosensing, due to their advantages of simple configuration, low cost, label-free property, and remote sensing capability. Over the past few years, it has been demonstrated that when the diameter of fiber is reduced to the scale of optical wavelength, there exists pronounced evanescent field outside the nanofiber, which is very sensitive to the refractive index change of the surrounding medium. In this work, we fabricated a pair of nanofibers with uniform diameter, and placed them into a microfluidic channel. When single nanoparticles in the microfluidic channel are bound to the surface of the nanofibers, the transmitted power shows a significant decrease due to the scattering and absorption of the nanoparticles in the evanescent field. By monitoring the step changes in the transmission of the nanofiber, detection and sizing of nanoparticles with single uniform radius (~ $100$ nm) and of mixed nanoparticles with two different radii ($100$ nm and $170$ nm) are both realized. Moreover, by employing plasmonic enhancement, detection of single gold nanorods with much smaller sizes (diameter ~ $16$ nm, length ~ $40$ nm), is also demonstrated. This nanofiber pair can be further extended to an array containing more nanofibers, thus to dramatically increase the sensing speed, which promises a bright future of the nanofiber sensors.
+
+-----
 #### [Single Nanoparticle Detection and Sizing Using a Nanofiber Pair in an Aqueous Environment](http://onlinelibrary.wiley.com/doi/10.1002/adma.201402085/abstract)
 
 Xiao-Chong Yu, Bei-Bei Li (co-first author) et al., Advanced Materials 26(44), 7462-7467 (2014). *Front cover paper, highlighted*{.red} *in [Materials Views](http://www.materialsviews.com/nanofiber-sensor-can-detect-size-single-nanoparticle/), [AZO nano](http://www.azonano.com/news.aspx?newsID=31610).*
