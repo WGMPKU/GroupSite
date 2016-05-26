@@ -186,142 +186,106 @@ Yong-Chun Liu 
 
 * 9/2010 - 7/2015, Ph.D. Student
 
-* Principal Investigator 
-
-* Qian Xuesen Laboratory of Space Technology
+* Principal Investigator, Qian Xuesen Laboratory of Space Technology
 
 Bei-Bei Li
 
 * 9/2009- 7/2014, Ph.D. Student
 
-* Post-doc
-
-* The University of Queensland
+* Post-doc, The University of Queensland
 
 Xue-Feng Jiang
 
 * 9/2009 - 7/2014, Ph.D. Student
 
-* Post-doc
-
-* University of Oregon
+* Post-doc, University of Oregon
 
 Yi-Wen Hu
 
 * 9/2011 - 7/2014, Master Student
 
-* Ph.D. Candidate 2014
-
-* University of Maryland
+* Ph.D. Candidate 2014, University of Maryland
 
 Bo-Qiang Shen 
 
 * 2/2013 - 7/2015, Undergraduate
 
-* Ph.D. Candidate 2015
-
-* California Institute of Technology
+* Ph.D. Candidate 2015, California Institute of Technology
 
 Dong-Yu Chen 
 
 * 2/2013 - 7/2015, Undergraduate
 
-* Ph.D. Candidate 2015
-
-* University of Southern California
+* Ph.D. Candidate 2015, University of Southern California
 
 Zhou-Chen Luo 
 
 * 2/2013 - 7/2015, Undergraduate
 
-* Ph.D. Candidate 2015
-
-* University of Maryland, College Park
+* Ph.D. Candidate 2015, University of Maryland, College Park
 
 Yu-Feng Shen 
 
 * 2/2013 - 7/2015, Undergraduate
 
-* Ph.D. Candidate 2015
-
-* Carnegie Mellon University
+* Ph.D. Candidate 2015, Carnegie Mellon University
 
 Lin-Bo Shao
 
 * 2/2012 - 7/2014, Undergraduate
 
-* Ph.D. Candidate 2014
-
-* Harvard University
+* Ph.D. Candidate 2014, Harvard University
 
 Meng-Yuan Yan
 
 * 2/2012 - 7/2014, Undergraduate
 
-* Ph.D. Candidate 2014
-
-* Stanford University
+* Ph.D. Candidate 2014, Stanford University
 
 Wei-Liang Jin
 
 * 2/2012 - 7/2014, Undergraduate
 
-* Ph.D. Candidate 2014
-
-* Princeton University
+* Ph.D. Candidate 2014, Princeton University
 
 Yi-Xiang Liu
 
 * 5/2012- 10/2013, Undergraduate
 
-* Ph.D. Candidate 2014
-
-* MIT
+* Ph.D. Candidate 2014, MIT
 
 William Clements
 
 * 9/2012- 7/2013, Visiting student
 
-* Graduate Student
-
-* M.S. student at École polytechnique, France
+* Graduate Student, M.S. student at École polytechnique, France
 
 Hao-Kun Li
 
 * 5/2011- 6/2013, Undergraduate
 
-* Ph.D. Candidate 2013
-
-* University of California, Berkeley
+* Ph.D. Candidate 2013, University of California, Berkeley
 
 Xue-Xin Ren
 
 * 5/2011- 6/2013, Undergraduate
 
-* Ph.D. Candidate 2013
-
-* University of California, Berkeley
+* Ph.D. Candidate 2013, University of California, Berkeley
 
 Qi-Fan Yang
 
 * 5/2011- 6/2013, Undergraduate
 
-* Ph.D. Candidate 2013
-
-* California Institute of Technology
+* Ph.D. Candidate 2013, California Institute of Technology
 
 Xu Yi
 
 * 12/2009- 6/2012, Undergraduate
 
-* Ph.D. Candidate 2012
-
-* California Institute of Technology
+* Ph.D. Candidate 2012, California Institute of Technology
 
 Qiu-Shu Chen
 
 * 5/2010- 6/2012, Undergraduate
 
-* Ph.D. Candidate 2012
-
-* University of Michigan
+* Ph.D. Candidate 2012, University of Michigan
