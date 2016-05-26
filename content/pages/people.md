@@ -49,14 +49,6 @@ lang: en
 
 ![Image loading]({filename}/images/shuxin.jpg){.avator}
 
-### Jian-Ning Xu,
-
-* Ph.D. candidate 2014
-* B. S., Nanjing University, 2014
-* E-mail: jnxu[AT]pku[DOT]edu[DOT]cn
-
-
-![Image loading]({filename}/images/jianning.jpg){.avator}
 
 ### Shui-Jing Tang,
 
@@ -118,7 +110,7 @@ lang: en
 
 ![Image loading]({filename}/images/gentleman.jpg){.avator}
 
-### He-Ming Wang,
+### Da Xu,
 
 * Undergraduate 2012
 * School of Physics, Tsing Hua University
