@@ -1,3 +1,13 @@
+/*width change*/
+
+.col-sm-9 {
+  width: 67%;
+}
+#sidebar {
+  width: 33%;
+}
+
+
 /* Banner setup */
 
 
