@@ -61,61 +61,21 @@ lang: en
 
 ### Qi-Tao Cao,
 
-
 * Ph.D. candidate 2015
 * B. S., University of Science and Technology of China, 2015
 * E-mail: caoqt[AT]pku[DOT]edu[DOT]cn
 
 ![Image loading]({filename}/images/qitao.jpg){.avator}
 
-## Undergraduates
-
-### Rui-Shan Liu,
-
-* Undergraduate 2012
-* School of Physics
-* E-mail:	liuruishan[AT]pku[DOT]edu[DOT]cn
-
-![Image loading]({filename}/images/ruishan.jpg){.avator}
-
-### Ao-Xue Han,
-
-* Undergraduate 2012
-* School of Physics
-* E-mail:	han_ao_xue[AT]126[DOT]com
-
-![Image loading]({filename}/images/girl.jpg){.avator}
-
-### Kang-Jing Huang,
-
-* Undergraduate 2012
-* School of Physics
-* E-mail:	huangkangjing[AT]gmail[DOT]com
-
-![Image loading]({filename}/images/HKJ.JPG){.avator}
-
-### Xi Chen,
-
-* Undergraduate 2012
-* School of Physics
-* E-mail:	1200011353[AT]pku[DOT]edu[DOT]cn
-
-![Image loading]({filename}/images/gentleman.jpg){.avator}
-
-### He-Ming Wang,
-
-* Undergraduate 2012
-* School of Physics
-* E-mail: wangheming[AT]pku[DOT]edu[DOT]cn
-
-![Image loading]({filename}/images/gentleman.jpg){.avator}
-
 ### Da Xu,
 
-* Undergraduate 2012
-* School of Physics, Tsing Hua University
+* Ph.D. candidate 2016
+* B. S, Tsing Hua University, 2016
+* E-mail:
 
 ![Image loading]({filename}/images/gentleman.jpg){.avator}
+
+## Undergraduates
 
 ### Ze-Yang Li,
 
@@ -161,7 +121,7 @@ lang: en
 * School of Information, TsingHua University
 * E-mail: zhangxueyue13[AT]mails[DOT]tsinghua[DOT]edu[DOT]cn
 
-![Image loading]({filename}/images/xueyue.png){.avator}
+![Image loading]({filename}/images/xueyue_copy.jpg){.avator}
 
 ### Yu-Zhong Gu,
 
@@ -176,6 +136,13 @@ lang: en
 * School of Physics
 
 ![Image loading]({filename}/images/gentleman.jpg){.avator}
+
+### Jun-Xia Wang,
+
+* Undergraduate 2014
+* School of Physics
+
+![Image loading]({filename}/images/girl.jpg){.avator}
 
 <div class="end-people"></div>
 
@@ -205,6 +172,36 @@ Yi-Wen Hu
 * 9/2011 - 7/2014, Master Student
 
 * Ph.D. Candidate 2014, University of Maryland
+
+Rui-Shan Liu
+
+*  - 7/2016, Undergraduate
+
+* Ph.D. Candidate 2016, Stanford University
+
+Ao-Xue Han
+
+*  - 7/2016, Undergraduate
+
+* Ph.D. Candidate 2016, The City University of New York
+
+Kang-Jing Huang,
+
+*  - 7/2016, Undergraduate
+
+* Ph.D. Candidate 2016, Purdue University
+
+Xi Chen,
+
+*  - 7/2016, Undergraduate
+
+* Ph.D. Candidate 2016, Harvard University
+
+He-Ming Wang,
+
+*  - 7/2016, Undergraduate
+
+* Ph.D. Candidate 2016, California Institute of Technology
 
 Bo-Qiang Shen 
 
