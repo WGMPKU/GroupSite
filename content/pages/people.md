@@ -183,7 +183,7 @@ Ao-Xue Han
 
 * 2/2014 - 7/2016, Undergraduate
 
-* Ph.D. Candidate 2016, The City University of New York
+* Ph.D. Candidate 2016, University of Arizona
 
 Kang-Jing Huang,
 
