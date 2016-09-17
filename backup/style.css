@@ -1,0 +1,139 @@
+#logo {
+	position:relative;
+	left:159px;
+	top:0px;
+	width:1100px;
+	height:50px;
+	z-index:1;
+}
+#title {
+	position:relative;
+	left:0px;
+	top:0px;
+	width:1350px;
+	height:105px;
+	z-index:2;
+	background-color: #0099FF;
+}
+#navigator {
+	position:relative;
+	left:0px;
+	top:0px;
+	width:1350px;
+	height:35px;
+	z-index:3;
+	background-color: #003399;
+}
+#content {
+	position:relative;
+	left:100px;
+	top:0px;
+	width:1100px;
+	min-height:650px;
+	_height:650px;
+	z-index:4;
+}
+#footbar {
+	position:relative;
+	left:0px;
+	top:30px;
+	width:1350px;
+	height:25px;
+	z-index:5;
+	background-color: #003399;
+}
+#footer {
+	position:relative;
+	left:0px;
+	top:30px;
+	width:1350px;
+	height:55px;
+	z-index:6;
+}
+.STYLE1 {
+	font-family:"Monotype Corsiva" Times New Roman, serif;
+	font-size: 46px;
+	margin-left: 0px;
+	color: #FFFFFF;
+	margin-top: 5px;
+}
+.STYLE2 {
+	font-family: "Monotype Corsiva" Times New Roman, serif;
+	font-size: 32px;
+	margin-left: 0px;
+	margin-top: 0px;
+	color: #FFFFFF;
+}
+.STYLE4 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	color: #333333
+}
+.largehead {
+	font-size: 36px; 
+	color: #0000FF; 
+	font-family: "Times New Roman", Times, serif; 
+}
+#title #line1 {
+	height: 50px;
+	width:700px;
+	position: absolute;
+	left: 172px;
+	top: -3px;
+}
+#title #line2 {
+	height: 40px;
+	left: 310px;
+	top: 60px;
+	position: absolute;
+}
+.text {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 20px;
+	line-height: 1.2;
+}
+
+.STYLE5 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 20px;
+	color: #003399;
+	margin-left: 0px;
+}
+.header {
+	font-size: 24px;
+	color: #000000;
+	font-family: "Times New Roman", Times, serif;
+}
+.smalltext {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 16px;
+}
+.paperlink {
+	color: #3399FF;
+	font-weight: bold;
+}
+.STYLE7 {
+	font-size: 20px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+	padding-left:160px;
+}
+a.navi:link {
+	color:#FFFFFF;
+	text-decoration: none;
+	font-size: 20px;
+	font-family: Segoe UI light, serif;
+	padding-left: 20px;
+	padding-right: 25px;
+	padding-top: 8px;
+}
+a.navi:visited {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+a.navi:hover {
+	text-decoration: underline;
+}
+a.navi:active {
+	text-decoration: none;
+}

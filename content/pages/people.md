@@ -175,31 +175,31 @@ Yi-Wen Hu
 
 Rui-Shan Liu
 
-*  - 7/2016, Undergraduate
+* 2/2014 - 7/2016, Undergraduate
 
 * Ph.D. Candidate 2016, Stanford University
 
 Ao-Xue Han
 
-*  - 7/2016, Undergraduate
+* 2/2014 - 7/2016, Undergraduate
 
 * Ph.D. Candidate 2016, The City University of New York
 
 Kang-Jing Huang,
 
-*  - 7/2016, Undergraduate
+* 2/2014 - 7/2016, Undergraduate
 
 * Ph.D. Candidate 2016, Purdue University
 
 Xi Chen,
 
-*  - 7/2016, Undergraduate
+* 2/2014 - 7/2016, Undergraduate
 
 * Ph.D. Candidate 2016, Harvard University
 
 He-Ming Wang,
 
-*  - 7/2016, Undergraduate
+* 2/2014 - 7/2016, Undergraduate
 
 * Ph.D. Candidate 2016, California Institute of Technology
 
