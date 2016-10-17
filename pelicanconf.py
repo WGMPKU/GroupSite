@@ -49,7 +49,7 @@ LANG_DISPLAY = {
     'zh': '中文'
 }
 
-PLUGIN_PATHS = ['/Users/laser/pelicanplugins/pelican-plugins/']
+PLUGIN_PATHS = ['/home/crystal/pelican-plugins/']
 PLUGINS = ['render_math', 'pelican-toc']
 
 TOC = {
