@@ -1,7 +1,5 @@
 ---
 title: Seminar
-slug: seminar
-lang: en
 ---
 
 ## 2016 - 2017 (1)
