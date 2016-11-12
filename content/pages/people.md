@@ -71,7 +71,7 @@ lang: en
 
 * Ph.D. candidate 2016
 * B. S, Tsing Hua University, 2016
-* E-mail:
+* E-mail: xuda2016[AT]pku[DOT]edu[DOT]cn
 
 ![Image loading]({filename}/images/DaXu.JPG){.avator}
 
