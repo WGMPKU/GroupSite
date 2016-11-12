@@ -73,7 +73,7 @@ lang: en
 * B. S, Tsing Hua University, 2016
 * E-mail:
 
-![Image loading]({filename}/images/gentleman.jpg){.avator}
+![Image loading]({filename}/images/DaXu.JPG){.avator}
 
 ## Undergraduates
 
