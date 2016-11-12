@@ -132,14 +132,6 @@ lang: zh
 
 ![Image loading]({filename}/images/pengpai1.png){.avator}
 
-### Si-Zhen Wang,
-
-* Undergraduate 2013
-* School of Physics
-* E-mail: wangsizhen199564[AT]126[DOT]com
-
-![Image loading]({filename}/images/gentleman.jpg){.avator}
-
 ### Fei Gao,
 
 * Undergraduate 2013
