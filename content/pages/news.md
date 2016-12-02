@@ -1,5 +1,6 @@
 ---
 title: News
+page-order: 2
 ---
 ## 2016
 

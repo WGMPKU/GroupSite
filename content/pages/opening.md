@@ -1,5 +1,6 @@
 ---
 title: Opening
+page-order: 3
 ---
 
 ## Opportunities for postdoctoral scholar and graduate students

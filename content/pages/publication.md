@@ -1,5 +1,6 @@
 ---
 title: Publication
+page-order: 5
 ---
 
 <div class="begin-publication"></div>

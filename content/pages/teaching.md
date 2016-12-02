@@ -1,5 +1,6 @@
 ---
 title: Teaching
+page-order: 9
 ---
 
 ## Fall 2011-2015, Optics

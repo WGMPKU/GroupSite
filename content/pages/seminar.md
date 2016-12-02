@@ -1,5 +1,6 @@
 ---
 title: Seminar
+page-order: 8
 ---
 
 ## 2016 - 2017 (1)

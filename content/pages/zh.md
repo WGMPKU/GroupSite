@@ -2,6 +2,7 @@
 title: 北京大学微腔光子学和量子光学研究组
 save_as: index_zh.html
 menulabel: 中文
+page-order: 10
 ---
 
 ## 欢迎

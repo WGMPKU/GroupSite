@@ -1,6 +1,6 @@
 ---
 title: Research
-
+page-order: 6
 ---
 
 <div class="begin-research"></div>

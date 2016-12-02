@@ -2,6 +2,7 @@
 title: People
 slug: people
 lang: en
+page-order: 4
 ---
 
 
